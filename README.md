@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Phys128AL Spring 2020 Course Wiki!
 
-You can use the [editor on GitHub](https://github.com/kapawlak/Phys128ALSpring2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Things go here.
 
 ### Markdown
 
